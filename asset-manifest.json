@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/final_ibcmi/static/css/main.74e8eeb6.chunk.css",
-    "main.js": "/final_ibcmi/static/js/main.9b7b69a5.chunk.js",
-    "main.js.map": "/final_ibcmi/static/js/main.9b7b69a5.chunk.js.map",
+    "main.js": "/final_ibcmi/static/js/main.c245e5bf.chunk.js",
+    "main.js.map": "/final_ibcmi/static/js/main.c245e5bf.chunk.js.map",
     "runtime-main.js": "/final_ibcmi/static/js/runtime-main.22e5e2f6.js",
     "runtime-main.js.map": "/final_ibcmi/static/js/runtime-main.22e5e2f6.js.map",
     "static/js/2.e4af771f.chunk.js": "/final_ibcmi/static/js/2.e4af771f.chunk.js",
     "static/js/2.e4af771f.chunk.js.map": "/final_ibcmi/static/js/2.e4af771f.chunk.js.map",
     "index.html": "/final_ibcmi/index.html",
-    "precache-manifest.63376a7c4e9c243e52ab3a00e5f67024.js": "/final_ibcmi/precache-manifest.63376a7c4e9c243e52ab3a00e5f67024.js",
+    "precache-manifest.8873543762c53cd7376b3afca9a22376.js": "/final_ibcmi/precache-manifest.8873543762c53cd7376b3afca9a22376.js",
     "service-worker.js": "/final_ibcmi/service-worker.js",
     "static/css/main.74e8eeb6.chunk.css.map": "/final_ibcmi/static/css/main.74e8eeb6.chunk.css.map",
     "static/js/2.e4af771f.chunk.js.LICENSE.txt": "/final_ibcmi/static/js/2.e4af771f.chunk.js.LICENSE.txt",
@@ -121,6 +121,6 @@
     "static/js/runtime-main.22e5e2f6.js",
     "static/js/2.e4af771f.chunk.js",
     "static/css/main.74e8eeb6.chunk.css",
-    "static/js/main.9b7b69a5.chunk.js"
+    "static/js/main.c245e5bf.chunk.js"
   ]
 }
